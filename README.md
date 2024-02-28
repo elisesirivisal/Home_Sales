@@ -1,5 +1,3 @@
 # Module 22 Report: Home_Sales
 
-## Overview
-
-## Results
+SparkSQL - code written and ran on Google Colab (link provided in GitHub repository)
